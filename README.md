@@ -7,7 +7,7 @@ This repository contains Group 7’s Final Project for DATA101, which is a Dash 
 
 1. Clone this repository to your local machine:
  ```
-   git clone https://github.com/MeeroDLSU/GHG-Paris-Agreement-Viz/
+ git clone https://github.com/MeeroDLSU/GHG-Paris-Agreement-Viz/
  ```
 2. Install the required Python packages using pip:
 
