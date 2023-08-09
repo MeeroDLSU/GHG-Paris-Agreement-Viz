@@ -12,6 +12,7 @@ This repository contains Group 7’s Final Project for DATA101, which is a Dash 
 2. Install the required Python packages using pip:
 
 ```
+pip install dash
 pip install pandas
 pip install geopandas 
 pip install plotly.express
